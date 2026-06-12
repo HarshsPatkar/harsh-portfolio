@@ -45,7 +45,7 @@ const CERTS = [
     icon: 'DB',
     name: 'Databricks Certified Data Engineer Associate',
     issuer: 'Databricks',
-    link: 'https://credentials.databricks.com/4c7ffcc6-d23e-4f43-bda3-3c32243c3d93#acc.h1kaQ5ur',
+    link: 'https://credentials.databricks.com/34105239-056c-4f04-af5c-fd3f98ba8f13#acc.vyZ3bq5o',
   },
   {
     icon: 'DB',
